@@ -43,7 +43,7 @@ print(" Juntos podemos cuidar nuestro planeta")
 
 ## Enlace de mi perfil
 "Si quieres ser parte de cambio empieza aqui"
-[EcoVida GitHub](https:github.com/Daniela0812-a)
+[EcoVida GitHub](https://github.com/Daniela0812-a)
   
 
 
