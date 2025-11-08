@@ -44,7 +44,15 @@ print(" Juntos podemos cuidar nuestro planeta")
 ## Enlace de mi perfil
 "Si quieres ser parte de cambio empieza aqui"
 [EcoVida GitHub](https://github.com/Daniela0812-a)
-  
+
+## EcoVida
+<p align="center">
+  <img src="tierra-dibujos-animados-rodeada-elementos-naturaleza-como-arboles-flores-avion-papel_1294240-27324.avif" 
+       alt="Logo" 
+       width="450">
+</p>
+
+# EcoVida Cuidando Nuestro Planeta 🌱🌻🥳
 
 
 
